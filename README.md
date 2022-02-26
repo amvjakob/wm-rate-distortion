@@ -1,32 +1,28 @@
 # wm-rate-distortion
 
-### Rate-distortion theory of neural coding and its implications for working memory
+This repository contains the code necessary to reproduce the analyses and
+figures reported in:
 
-Anthony M.V. Jakob $^{1,2}$, Samuel J. Gershman $^{3,4}$
+> Rate-distortion theory of neural coding and its implications for working
+> memory, Anthony M.V. Jakob and Samuel J. Gershman
 
-$^1$ Section of Life Sciences Engineering, École Polytechnique Fédérale de
-Lausanne\
-$^2$ Department of Neurobiology, Harvard Medical School\
-$^3$ Department of Psychology and Center for Brain Science, Harvard University\
-$^4$ Center for Brains, Minds and Machines, MIT
-
-## :floppy_disk: Structure
+## :scroll: Structure
 
 ```
-├── wm_rate_distortion         <- This repository
-|   ├── src                    <- Source files for analysis and figures
+├── wm_rate_distortion     <- This repository
+|   ├── src                <- Source files for analysis and figures
 |   |   └── ...
-|   ├── data                   <- Simulation results
+|   ├── data               <- Simulation results
 |   |   └── ...
-|   ├── figs                   <- Figures
+|   ├── figs               <- Figures
 |   |   └── ...
-|   └── ...                    <- Notebooks for analysis and figures
+|   └── ...                <- Notebooks for analysis and figures
 |
-└── data                       <- Experimental data from studies below
+└── data                   <- Experimental data from studies below
     └── ...
 ```
 
-## :scroll: Data
+## :floppy_disk: Data
 
 Data available from original studies:
 
